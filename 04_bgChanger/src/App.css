@@ -1,0 +1,34 @@
+#root {
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+
+#container {
+  margin-block: 3em;
+  height: 3em;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1em;
+}
+
+#work-area {
+  padding: 0.5em;
+}
+
+button {
+  margin: 0.4em;
+  padding: 0.5em;
+  background: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 1em;
+}
+
+h1 {
+  text-align: center;
+}
